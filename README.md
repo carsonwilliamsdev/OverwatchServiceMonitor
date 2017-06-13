@@ -13,6 +13,8 @@ If you really like this software, feel free to donate on my twitch stream!
 
 This project uses WiX 4 for the msi installer.
 
+Solution created with VS2017. 
+
 You may need to manually start the service the first time after installation. After that it should start automatically.
 
 The service can be uninstalled from Control Panel.
