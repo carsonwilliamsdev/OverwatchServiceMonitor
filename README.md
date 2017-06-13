@@ -15,6 +15,8 @@ This project uses WiX 4 for the msi installer.
 
 Solution created with VS2017. 
 
+Service writes event logs to Windows Event Logs.
+
 You may need to manually start the service the first time after installation. After that it should start automatically.
 
 The service can be uninstalled from Control Panel.
