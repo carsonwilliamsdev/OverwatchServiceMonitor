@@ -1,25 +1,9 @@
 # OverwatchServiceMonitor
-Author: PKGR1N
-
-Website: http://twitch.tv/PKGRin
-
+Author: Carson Williams
 Description: Windows service that automatically sets Overwatch.exe process priority to High.
 
-
-If you find this software useful, stop by my twitch stream and give me a follow.
-
-If you really like this software, feel free to donate on my twitch stream!
-
-
-This project uses WiX 4 for the msi installer.
-
+This project uses WiX 4 for the MSI installer.
 Solution created with VS2017. 
-
-Service writes event logs to Windows Event Logs.
-
+The service writes event logs to Windows Event Logs.
 You may need to manually start the service the first time after installation. After that it should start automatically.
-
 The service can be uninstalled from Control Panel.
-
-
-Report any bugs to: pkgrintwitch@gmail.com
